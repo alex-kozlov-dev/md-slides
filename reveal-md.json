@@ -1,0 +1,8 @@
+{
+    "theme": "theme/preply.css",
+    "css": "node_modules/tailwindcss/dist/tailwind.min.css",
+    "watch": true,
+    "scripts": [
+        "scripts/custom-renderer.js"
+    ]
+}
